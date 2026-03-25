@@ -21,7 +21,7 @@
 ---
 
 ## Profile Photo
-![Profile Photo](https://pin.it/71FCYf69P)
+![Profile Photo](image-for-github.jpg)
 
 ---
 
