@@ -18,12 +18,8 @@
 - Exploring **AI & ML fundamentals**  
 - Interested in **data structures & algorithms**  
 
----
-
-## Profile Photo
-![Profile Photo](image-for-github.jpg)
-
----
+<span><img src ="image-for-github.jpg" alt ="my way of learning" width ="450" height="240"></span> 
+<span><img src ="software developer.jpg" alt ="my way of learning" width ="450" height="300"></span>
 
 ## Goals
 - Master Java programming  
